@@ -1,0 +1,20 @@
+\contentsline {section}{\numberline {1}Historical context}{1}{section.1}%
+\contentsline {subsection}{\numberline {1.1}White dwarfs}{1}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Neutron stars}{2}{subsection.1.2}%
+\contentsline {section}{\numberline {2}Compact stars}{2}{section.2}%
+\contentsline {section}{\numberline {3}Structure equation of a star}{3}{section.3}%
+\contentsline {section}{\numberline {4}Equation of state for white dwarfs}{4}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Relativistic case}{6}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Nonrelativistic case}{8}{subsection.4.2}%
+\contentsline {section}{\numberline {5}Solving the structure equation for white dwarfs}{9}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Relativistic case}{9}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Nonrelativistic case}{11}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}General solution}{11}{subsection.5.3}%
+\contentsline {section}{\numberline {6}Chandrasekhar limit}{13}{section.6}%
+\contentsline {section}{\numberline {7}Little notes about Neutron stars}{20}{section.7}%
+\contentsline {section}{\numberline {8}Conclusion}{20}{section.8}%
+\contentsline {section}{\numberline {A}Codes used}{21}{appendix.A}%
+\contentsline {subsection}{\numberline {A.1}Code for \autoref {subsec:solvingrel}}{21}{subsection.A.1}%
+\contentsline {subsection}{\numberline {A.2}Code for \autoref {subsec:solvingnonrel}}{22}{subsection.A.2}%
+\contentsline {subsection}{\numberline {A.3}Code for \autoref {subsec:solvinggeneral}}{23}{subsection.A.3}%
+\contentsline {subsection}{\numberline {A.4}Code to calculate the Chandrasekhar limit in \autoref {sec:chandrasekhar}}{25}{subsection.A.4}%
